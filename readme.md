@@ -9,7 +9,8 @@ A Streamlit application that uses Google's Gemini AI to extract and analyze info
 
 ![image](https://github.com/user-attachments/assets/2f36c0fc-c0dc-402e-a679-84ff3667a3d1)
 
-![image](https://github.com/user-attachments/assets/b42814fc-e278-48e9-902e-a9c01684a1b5)
+![image](https://github.com/user-attachments/assets/780e49dc-cd50-431e-acfc-8ad5daf000cc)
+
 ## Setup
 
 1. Clone the repository
