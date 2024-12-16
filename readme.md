@@ -5,12 +5,11 @@
 ## Description
 A Streamlit application that uses Google's Gemini AI to extract and analyze information from invoice images.
 
-#Screeshots 
+## Screeshots 
+
 ![image](https://github.com/user-attachments/assets/2f36c0fc-c0dc-402e-a679-84ff3667a3d1)
 
-![image](screenshots/Screenshot 2024-12-16 at 6.27.01 PM.png)
-
-
+![image](https://github.com/user-attachments/assets/b42814fc-e278-48e9-902e-a9c01684a1b5)
 ## Setup
 
 1. Clone the repository
